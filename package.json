@@ -1,7 +1,7 @@
 {
-  "name": "react_app_ii",
+  "name": "react_app_boilerplate",
   "version": "1.0.0",
-  "description": "Minimal react component",
+  "description": "Minimal react component bolierplate",
   "main": "index.js",
   "author": "vm.dev",
   "license": "MIT",
