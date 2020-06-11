@@ -1,13 +1,13 @@
-# react_app_ii
+# react_app_boilerplate
 
-> Minimal react component
+> Minimal react component bolierplate
 
 background details relevant to understanding what this module does
 
 ## Usage
 
 ```js
-var reactAppIi = require('react_app_ii')
+var reactAppBoilerplate = require('react_app_boilerplate')
 
 console.log('hello warld')
 ```
@@ -21,7 +21,7 @@ hello warld
 ## API
 
 ```js
-var reactAppIi = require('react_app_ii')
+var reactAppBoilerplate = require('react_app_boilerplate')
 ```
 
 See [api_formatting.md](api_formatting.md) for tips.
@@ -31,12 +31,12 @@ See [api_formatting.md](api_formatting.md) for tips.
 With [npm](https://npmjs.org/) installed, run
 
 ```
-$ npm install react_app_ii
+$ npm install react_app_boilerplate
 ```
 
 ## Acknowledgments
 
-react_app_ii was inspired by..
+react_app_boilerplate was inspired by..
 
 ## See Also
 
