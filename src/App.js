@@ -1,7 +1,7 @@
 import React from 'react'
 
 const App = () => (
-  <h1>Test React App II</h1>
+  <h1>React Boilerplate Starter</h1>
 )
 
 export default App
